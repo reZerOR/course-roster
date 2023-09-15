@@ -1,74 +1,74 @@
 [
   {
     "id": 1,
-    "img": "https://example.com/image1.jpg",
-    "title": "Product 1",
-    "description": "This is the description for Product 1.",
-    "price": 19.99,
-    "time": "2023-09-15T10:30:00Z"
+    "img": "https://i.ibb.co/x6cmmd4/Rectangle-2-2.png",
+    "title": "Introduction to C Programming",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 15000,
+    "time": 1                         
   },
   {
     "id": 2,
-    "img": "https://example.com/image2.jpg",
-    "title": "Product 2",
-    "description": "This is the description for Product 2.",
-    "price": 29.99,
-    "time": "2023-09-15T11:15:00Z"
+    "img": "https://i.ibb.co/5rZ9wLr/Rectangle-2-3.png",
+    "title": "Introduction to Algorithms",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 25000,
+    "time": 2
   },
   {
     "id": 3,
-    "img": "https://example.com/image3.jpg",
-    "title": "Product 3",
-    "description": "This is the description for Product 3.",
-    "price": 39.99,
-    "time": "2023-09-15T12:00:00Z"
+    "img": "https://i.ibb.co/P5MnvV5/Rectangle-2-4.png",
+    "title": "Introduction to C++ for DSA",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 10000,
+    "time": 10
   },
   {
     "id": 4,
-    "img": "https://example.com/image4.jpg",
-    "title": "Product 4",
-    "description": "This is the description for Product 4.",
-    "price": 49.99,
-    "time": "2023-09-15T13:45:00Z"
+    "img": "https://i.ibb.co/s19C7Zm/Rectangle-3.png",
+    "title": "Basic Data Structures",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 35000,
+    "time": 5
   },
   {
     "id": 5,
-    "img": "https://example.com/image5.jpg",
-    "title": "Product 5",
-    "description": "This is the description for Product 5.",
-    "price": 59.99,
-    "time": "2023-09-15T14:30:00Z"
+    "img": "https://i.ibb.co/JkX7Lcb/Rectangle-2.png",
+    "title": "Introduction to OOP Python",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 19000,
+    "time": 5
   },
   {
     "id": 6,
-    "img": "https://example.com/image6.jpg",
-    "title": "Product 6",
-    "description": "This is the description for Product 6.",
-    "price": 69.99,
-    "time": "2023-09-15T15:15:00Z"
+    "img": "https://i.ibb.co/m8s5SW6/Rectangle-2-5.png",
+    "title": "Software Engineering",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 23000,
+    "time": 2
   },
   {
     "id": 7,
-    "img": "https://example.com/image7.jpg",
-    "title": "Product 7",
-    "description": "This is the description for Product 7.",
-    "price": 79.99,
-    "time": "2023-09-15T16:00:00Z"
+    "img": "https://i.ibb.co/37vtGpp/Rectangle-3-1.png",
+    "title": "AWS, Cloud Computing",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 19000,
+    "time": 5
   },
   {
     "id": 8,
-    "img": "https://example.com/image8.jpg",
-    "title": "Product 8",
-    "description": "This is the description for Product 8.",
-    "price": 89.99,
-    "time": "2023-09-15T16:45:00Z"
+    "img": "https://i.ibb.co/98M8j0F/Rectangle-2-1.png",
+    "title": "Database (MySQL)",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 35000,
+    "time": 5
   },
   {
     "id": 9,
-    "img": "https://example.com/image9.jpg",
-    "title": "Product 9",
-    "description": "This is the description for Product 9.",
-    "price": 99.99,
-    "time": "2023-09-15T17:30:00Z"
+    "img": "https://i.ibb.co/nPmQ6tZ/Rectangle-2-6.png",
+    "title": "Problem-Solving Part",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 23000,
+    "time": 2
   }
 ]
