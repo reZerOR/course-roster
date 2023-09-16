@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import { FiDollarSign, FiBookOpen } from "react-icons/fi";
 
-const Card = ({ card }) => {
+const Card = ({ card, handleClick }) => {
   const { img, title, description, price, time } = card;
   return (
     <div className="w-[312px] p-4 bg-white rounded-lg">
@@ -22,7 +22,10 @@ const Card = ({ card }) => {
           <p className="text-base font-medium">Credit: {time}hr</p>
         </div>
       </div>
-      <button className="bg-blue-500 w-full py-2 text-lg font-semibold text-white rounded-lg">
+      <button
+        onClick={() => handleClick(card)}
+        className="bg-blue-500 w-full py-2 text-lg font-semibold text-white rounded-lg"
+      >
         Select
       </button>
     </div>
@@ -30,6 +33,7 @@ const Card = ({ card }) => {
 };
 Card.propTypes = {
   card: PropTypes.object,
+  handleClick: PropTypes.func,
 };
 
 export default Card;
