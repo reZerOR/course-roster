@@ -1,8 +1,15 @@
-# React + Vite
+## Answers
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
 
-Currently, two official plugins are available:
+- In this project you can add courses title when you click button.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- You can see what course you added and how much it cost.
+
+- In this project you have 20 credits if add more than 20 credit you can find a toast.
+
+# Managing state
+
+In this project you have 3 components that are child to app component. When you nedd to give state to child component first you have to declare into app component. After declaring state you can update the sate through function and add as a prop to child component.
+
+Thats how i manage state.

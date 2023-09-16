@@ -34,7 +34,6 @@ function App() {
         setCredits(credit);
         setTimes(count);
         setPrices(countPrice);
-        console.log(card);
       }
     }
   };

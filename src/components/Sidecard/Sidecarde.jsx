@@ -1,6 +1,5 @@
 import PropTypes from "prop-types";
 const Sidecarde = ({ titles, credits, times, prices }) => {
-  console.log(titles, credits);
   let count = 1;
   return (
     <div>
